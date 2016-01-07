@@ -5,27 +5,27 @@ _Note_: Our class will be meeting from 1:00-2:50 every _other_ week instead of 1
 8 Jan 2016 - Introduction (Mr. Laboon, Dr. Znati)
   * Sprint 1 Begins
 
-22 Jan 2016 - Proposal and Proposal Presentation Due 
+22 Jan 2016 - Guest Lecture (General Dynamics), Proposal Due and Retrospective
   * Sprint 2 Begins
   
-5 Feb 2016 - Guest Lecture (TBD) and Retrospective
+5 Feb 2016 - Guest Lecture (Grant Street Group) and Retrospective
   * Sprint 3 Begins
   
-19 Feb 2016 - Mid-Semester Checkpoint Due
+19 Feb 2016 - Guest Lecture (HighJump) and Mid-Semester Checkpoint Due
   * Sprint 4 Begins
 
-4 Mar 2016 - Guest Lecture (TBD) and Retrospective
+4 Mar 2016 - Guest Lecture (NetApp) and Retrospective
   * Sprint 5 Begins
 
 18 Mar 2016 - Guest Lecture (TBD) and Retrospective
   * Sprint 6 Begins
 
-1 Apr 2016 - Final sprint discussion and preparation for project presentations
+1 Apr 2016 - Guest Lecture (BNY Mellon), final sprint discussion and preparation for project presentations
   * Sprint 7 (Final Sprint) Begins
 
-15 Apr 2016 - Project presentations (in-class)
+15 Apr 2016 - Guest Lecture (FedEx) and Class Retrospective
 
-22 Apr 2016 - Final paper due
+22 Apr 2016 - Project presentations (in-class) and final paper due
 
 
 Details on Assignments:
