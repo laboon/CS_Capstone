@@ -67,7 +67,12 @@ Final Project Presentation -
 Final Project Paper
   * An 8 to 12 page paper discussing:
     * Challenges developing the software
-
+    * Features added
+    * Prioritization
+    * Defects found and fixed
+    * Design (modifications from initial design?)
+    * Trade-offs made
+    * Environment (how did you meet? communicate? discuss? assign work? etc.)
 
 ## Details on Project Development:
 
