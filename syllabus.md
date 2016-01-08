@@ -1,6 +1,6 @@
 Spring 2016 Syllabus
 
-_Note_: Our class will be meeting from 1:00-2:50 every _other_ week instead of 1:00-1:50 every week.  If this conflicts with your schedule, please let me know by our next class meeting on 22 Jan.
+_Note_: Our class will be meeting from 1:00-2:50 every _other_ week instead of 1:00-1:50 every week.  If this conflicts with your schedule, please let me know by our next class meeting on 22 Jan.  This schedule is subject to change.
 
 8 Jan 2016 - Introduction (Mr. Laboon, Dr. Znati)
   * Sprint 1 Begins

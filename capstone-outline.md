@@ -1,3 +1,5 @@
+_NOTE: For those of you heading to Project Studio, you will be meeting with representatives from the company with whom you are working (NetApp or FedEx).  This schedule will most likely not apply to you unless they decide that you should follow it.  You will also need to drop CS1980 and add CS1981 (they are worth the same credits)._
+
 Details on Assignments:
 
 Proposal Paper -
@@ -38,7 +40,7 @@ Final Project Paper
 
 ## Details on Project Development:
 
-The goal of this course is to develop a project, from start to finish, using modern software engineering tools and techniques.  The final project should be _well-written,, well-tested, and well-documented_.  
+The goal of this course is to develop a project, from start to finish, using modern software engineering tools and techniques.  The final project should be _well-written, well-tested, and well-documented_.  
 
 Unless dictated otherwise by the customer, work should be done using Git and GitHub.  Work should be done in a private repository.  Please sign up for a student developer pack (which includes five free private repositories, along with other free software) here: https://education.github.com/pack
 
