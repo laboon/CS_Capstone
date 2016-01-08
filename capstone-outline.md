@@ -1,33 +1,3 @@
-Schedule for Spring 2016
-
-_Note_: Our class will be meeting from 1:00-2:50 every _other_ week instead of 1:00-1:50 every week.  If this conflicts with your schedule, please let me know by our next class meeting on 22 Jan.
-
-8 Jan 2016 - Introduction (Mr. Laboon, Dr. Znati)
-  * Sprint 1 Begins
-
-22 Jan 2016 - Guest Lecture (General Dynamics), Proposal Due and Retrospective
-  * Sprint 2 Begins
-  
-5 Feb 2016 - Guest Lecture (Grant Street Group) and Retrospective
-  * Sprint 3 Begins
-  
-19 Feb 2016 - Guest Lecture (HighJump) and Mid-Semester Checkpoint Due
-  * Sprint 4 Begins
-
-4 Mar 2016 - Guest Lecture (NetApp) and Retrospective
-  * Sprint 5 Begins
-
-18 Mar 2016 - Guest Lecture (TBD) and Retrospective
-  * Sprint 6 Begins
-
-1 Apr 2016 - Guest Lecture (BNY Mellon), final sprint discussion and preparation for project presentations
-  * Sprint 7 (Final Sprint) Begins
-
-15 Apr 2016 - Guest Lecture (FedEx) and Class Retrospective
-
-22 Apr 2016 - Project presentations (in-class) and final paper due
-
-
 Details on Assignments:
 
 Proposal Paper -
@@ -45,19 +15,11 @@ This should include:
   
 Additionally, a "walking skeleton" version of the software should be completed at this point.
 
-Proposal Presentation -
-This should be:
-  * A five minute explanation of the software you are planning to develop
-  * What you expect it do
-  * Challenges you expect
-
 Mid-Semester Checkpoint -
   * A brief description of decisions made and challenges faced so far
+    * Approximately 1 - 2 pages
   * A _working_ demo of the software
     * Note that the software does not have to be fully functional, but should be "presentable"
-  * A 5 minute demonstration of the software
-    * A walkthrough of the code should be done if the software is not yet presentable
-    * However, this is suboptimal
 
 Final Project Presentation -
   * A five to ten-minute demo of the software you developed
@@ -87,10 +49,3 @@ We will consider each class meeting the end of each sprint.  During this time, w
 Since student schedules are often hard to reconcile, I recommend you use a chat application such as Slack or HipChat to stay in touch with each other, even when you cannot meet in person.
 
 As this is a capstone course, you are expected to be self-motivated and independent.  This may mean learning a new language, framework, architecture, etc.  Professional software engineers are often expected to learn these things independently, and you should be prepared to do so as well.  If you are unfamiliar with where to find training materials or information for a particular subject, you may discuss it with Professor Laboon, but the onus is entirely on you to learn anything additional you need to know to complete the project.
-
-## Thoughts / Quesstions
-
-Static roles vs dynamic? (switching every sprint)
-
-Textbook (for Agile methodology) or no?  I don't think it's necessary, but would like to go over expectations in class.
-  * Thinking I can recommend one, but not make it mandatory
