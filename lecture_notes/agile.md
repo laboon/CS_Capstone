@@ -1,4 +1,4 @@
-# Lecture 5 - Agile/Scrum and Requirements Elicitation
+# Agile/Scrum and Requirements Elicitation
 
 ## Agile / Scrum
 
