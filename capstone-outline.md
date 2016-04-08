@@ -1,3 +1,11 @@
+## Course Information
+
+**Taught by:** Bill Laboon (bill.laboon@pitt.edu)  
+**Professor's Office Hours:** SENSQ 6305
+* Thursday 2:30-4:00 PM
+* Wednesday 1:30-2:45 PM
+* or by appointment.  
+
 _NOTE: For those of you heading to Project Studio, you will be meeting with representatives from the company with whom you are working (NetApp or FedEx).  This schedule will most likely not apply to you unless they decide that you should follow it.  You will also need to drop CS1980 and add CS1981 (they are worth the same credits)._
 
 Details on Assignments:
